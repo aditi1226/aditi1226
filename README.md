@@ -47,7 +47,7 @@
 - Natural Language Processing
 - DATA STORAGE AND ANALYTICS WITH DASHBOARD
 - [FIRE DETECTION AND ALERT SYSTEM BASED ON IMAGE PROCESSING](https://github.com/aditi1226/Fire_Detection)
-- [FOLLOW ME TROLLEY (EXPLORATORY PROJECT)](https://github.com/aditi1226/Follow-me-trolley)
+- [FOLLOW ME TROLLEY](https://github.com/aditi1226/Follow-me-trolley)
 
 #### NOTE- All Projects Repo are public and belong solely to my team.
 
