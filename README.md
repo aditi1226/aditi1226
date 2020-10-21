@@ -1,7 +1,7 @@
 ### Hi there, I'm Aditi. 👋
 
 ## I'm a Student and a Developer!
-- 👯 I’m looking for an opportunity in Software domain.
+- 👯 Currently, I’m actively looking for an opportunity in Software domain.
 - 🔭 I’m currently working on a NLP Project!
 - 🌱 I’m currently learning everything. 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects
@@ -44,8 +44,8 @@
 
 ### 📕 Latest Projects
 <!-- PROJECTS:START -->
-- [Natural Language Processing]
-- [DATA STORAGE AND ANALYTICS WITH DASHBOARD]()
+- Natural Language Processing
+- DATA STORAGE AND ANALYTICS WITH DASHBOARD
 - [FIRE DETECTION AND ALERT SYSTEM BASED ON IMAGE PROCESSING](https://github.com/aditi1226/Fire_Detection)
 - [FOLLOW ME TROLLEY (EXPLORATORY PROJECT)](https://github.com/aditi1226/Follow-me-trolley)
 
