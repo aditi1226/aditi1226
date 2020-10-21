@@ -7,6 +7,14 @@
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to paint and reading stories.
 
+### Competitive Programming Profiles:
+
+- Codeforces [aditi.](https://codeforces.com/profile/aditi./) [<img align="left" alt="aditi1226 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+- Codechef [adiii26](https://www.codechef.com/users/adiii26) [<img align="left" alt="aditi1226 | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+- HackerRank [adit26](https://www.hackerrank.com/adit26) [<img align="left" alt="aditi1226 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+- InterviewBit [aditi.](https://www.interviewbit.com/profile/aditi.) [<img align="left" alt="aditi1226 | InterviewBit" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTPZA3lEYsxJYiPfwd-Zl0tP3UUm6di1drjw&usqp=CAU" />][interviewbit]
+
+
 ### Connect with me:
 
 [<img align="left" alt="aditi1226 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -65,3 +73,7 @@
 [gmail]: mailto:aditigupta6226@gmail.com
 [instagram]: https://instagram.com/a.r.tvilla?igshid=17fv62g16wj8
 [linkedin]: https://www.linkedin.com/in/aditi-13a221193
+[codeforces]: https://codeforces.com/profile/aditi./
+[codechef]: https://www.codechef.com/users/adiii26
+[hackerrank]: https://www.hackerrank.com/adit26
+[interviewbit]: https://www.interviewbit.com/profile/aditi.
