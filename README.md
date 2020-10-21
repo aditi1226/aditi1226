@@ -9,10 +9,10 @@
 
 ### Competitive Programming Profiles:
 
-- Codeforces [aditi.](https://codeforces.com/profile/aditi./) [<img align="left" alt="aditi1226 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-- Codechef [adiii26](https://www.codechef.com/users/adiii26) [<img align="left" alt="aditi1226 | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-- HackerRank [adit26](https://www.hackerrank.com/adit26) [<img align="left" alt="aditi1226 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-- InterviewBit [aditi.](https://www.interviewbit.com/profile/aditi.) [<img align="left" alt="aditi1226 | InterviewBit" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTPZA3lEYsxJYiPfwd-Zl0tP3UUm6di1drjw&usqp=CAU" />][interviewbit]
+- Codeforces (max-rating: 1788) [aditi.](https://codeforces.com/profile/aditi./) [<img align="left" alt="aditi1226 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+- Codechef (5 star, max-rating: 2001) [adiii26](https://www.codechef.com/users/adiii26) [<img align="left" alt="aditi1226 | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+- HackerRank (5 star) [adit26](https://www.hackerrank.com/adit26) [<img align="left" alt="aditi1226 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+- InterviewBit (Score 3359) [aditi.](https://www.interviewbit.com/profile/aditi.) [<img align="left" alt="aditi1226 | InterviewBit" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTPZA3lEYsxJYiPfwd-Zl0tP3UUm6di1drjw&usqp=CAU" />][interviewbit]
 
 
 ### Connect with me:
